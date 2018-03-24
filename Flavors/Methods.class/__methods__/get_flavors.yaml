@@ -1,0 +1,13 @@
+---
+object_type: method
+version: 1.0
+object:
+  attributes:
+    name: get_flavors
+    display_name: get_flavors
+    description: 
+    scope: instance
+    language: ruby
+    location: inline
+    options: {}
+  inputs: []
