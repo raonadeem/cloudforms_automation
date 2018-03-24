@@ -1,1 +1,0 @@
-# cloudforms_automation
